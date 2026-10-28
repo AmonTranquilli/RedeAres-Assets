@@ -2,10 +2,12 @@
 
 Arquivos públicos da Rede Ares para distribuição aos jogadores.
 
-## Protótipo técnico da Mina 3.0
+## Mina Imperial 3.1
 
-O pacote `releases/RedeAres-Mina-Base-3.0.zip` implementa uma imagem de fonte no título de um baú de 45 slots. Ele não substitui texturas globais de baús, funis ou shulkers. O layout é provisório e serve para conferir alinhamento, botões e escalas antes da arte original do Rankup Império.
+Pacote atual: `releases/RedeAres-Mina-Imperial-3.1.zip`.
 
-Minecraft Java 1.21.11. SHA-1: `56733ffe98742b5fd0ea4319b1dae5f92bef4162`.
+Arte original aprovada: pedra clara, ouro envelhecido, contraste grafite e detalhes vinho. O menu principal usa uma imagem de fonte exclusiva, com as mesmas posições de botões da base 3.0 validada no jogo. Os estados MINERAR e SAIR são selecionados pelo plugin; a opção à direita é MINAS PÚBLICAS.
 
-Requer o plugin AresPrivateMines correspondente. A renderização no cliente ainda precisa ser validada. O README dentro do ZIP descreve o teste.
+Minecraft Java 1.21.11. SHA-1: `a8a0c1b55d39a8c4261f4fbb309de894e3565961`.
+
+Requer AresPrivateMines correspondente. Não substitui recursos globais de baú, funil ou shulker. A arte final ainda requer conferência visual no cliente.
